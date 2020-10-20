@@ -76,3 +76,19 @@ http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/50047
 http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/50048
 #EXTINF:-1 tvg-id="" tvg-name="DEP| Br: SPORTV 3 BRASIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSydhf72dtfHa-Tq8nXN7_QVd2FIYDKWC7e_w&usqp=CAU" group-title="DEPORTES",DEP| Br: SPORTV 3 BRASIL
 http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/50049
+#EXTINF:-1 tvg-id="" tvg-name="DEP| Win Sports (A)" tvg-logo="" group-title="FUTBOL COLOMBIA",DEP| Win Sports (A)
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/299
+#EXTINF:-1 tvg-id="" tvg-name="DEP| WIN SPORTS + (lt)" tvg-logo="" group-title="FUTBOL COLOMBIA",DEP| WIN SPORTS + (lt)
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/25500
+#EXTINF:-1 tvg-id="" tvg-name="DEP| WIN SPORTS + (R)" tvg-logo="" group-title="FUTBOL COLOMBIA",DEP| WIN SPORTS + (R)
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/25950
+#EXTINF:-1 tvg-id="" tvg-name="DEP| WIN SPORTS + (R) OP2" tvg-logo="" group-title="FUTBOL COLOMBIA",DEP| WIN SPORTS + (R) OP2
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/25951
+#EXTINF:-1 tvg-id="" tvg-name="DEP| WIN SPORTS + FHD (E)" tvg-logo="" group-title="FUTBOL COLOMBIA",DEP| WIN SPORTS + FHD (E)
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/27308
+#EXTINF:-1 tvg-id="" tvg-name="DEP| WIN SPORTS + SD (E)" tvg-logo="" group-title="FUTBOL COLOMBIA",DEP| WIN SPORTS + SD (E)
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/27309
+#EXTINF:-1 tvg-id="" tvg-name="DEP| Win Sports FHD (R)" tvg-logo="" group-title="FUTBOL COLOMBIA",DEP| Win Sports FHD (R)
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/596
+#EXTINF:-1 tvg-id="" tvg-name="DEP| WWE  " tvg-logo="" group-title="DEPORTES",DEP| WWE  
+http://iptv.premiumstore.biz:8080/Jairo490324/penagos490324/38011
